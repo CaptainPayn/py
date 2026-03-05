@@ -1,1 +1,1 @@
-This is a collection of projects during the course of my Python2
+This is a collection of my python projects
