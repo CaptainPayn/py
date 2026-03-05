@@ -1,5 +1,5 @@
 #author: Philip Yurovskiyh
-from Numerology2 import Numerology
+from Numerology import Numerology
 
 
 def main():
